@@ -6,7 +6,7 @@ It has two parts:
 
 + app_code - The code of the android app the driver uses.
 
-+ on_laptop - runs on a laptop that's inside the car. establishes the connection between computer and app, receives and processes the video feed from the drone, runs detection algorithms on the feed and sends results to the app.
++ on_laptop - Runs on a laptop that's inside the car. Establishes the connection between computer and app, receives and processes the video feed from the drone, runs detection algorithms on the feed and sends results to the app.
 
 # Prerequisites:
 - You need a computer that runs Linux (We used Ubuntu 16.04.3 LTS).
