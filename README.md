@@ -3,8 +3,6 @@
 This repository contains the code for our Assisted Driving System, FlyEye. 
 It has two parts:
 
-This code is for communication between a computer that gets the feed from the drone and runs detections algorithms on it, and an app for the driver.
-
 
 + app_code - The code of the android app the driver uses.
 
