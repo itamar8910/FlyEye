@@ -1,4 +1,4 @@
-# FlyEye - Assisted Driving with a drone.
+# FlyEye - Assisted Driving with a drone and deep learning.
 
 This repository contains the code for our Assisted Driving System, FlyEye. 
 It has two parts:
